@@ -31,7 +31,7 @@
     },
 
     "require-dev": {
-        "sensio/framework-extra-bundle":  "^3.0",
+        "sensio/framework-extra-bundle":  "^3.0.13",
         "symfony/phpunit-bridge":         "~2.7|^3.0",
         "symfony/form":                   "^2.7|^3.0",
         "symfony/validator":              "^2.7|^3.0",
